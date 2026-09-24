@@ -1,4 +1,4 @@
- name: "Skenario 1 - Level 1 - Deploy Static Site"
+name: "Skenario 1 - Level 1 - Deploy Static Site"
 
 on:
   push:
